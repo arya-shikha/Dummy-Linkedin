@@ -57,5 +57,5 @@
   ![profilepage](https://user-images.githubusercontent.com/95076493/208725985-5e73cabf-a9d7-4379-a924-7a64d2b34005.jpeg)
   
   Post section
-  
+  ![postsection](https://user-images.githubusercontent.com/95076493/208726968-dea0e8f1-f1bb-4ebe-a77c-a1a7a0ad2196.jpeg)
  
