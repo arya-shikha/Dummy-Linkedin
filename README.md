@@ -52,5 +52,10 @@
  •  At the bottom we have useful links and copyright message.
 
  
- 
+ # Screenshorts
+  Profile page
+  ![profilepage](https://user-images.githubusercontent.com/95076493/208725985-5e73cabf-a9d7-4379-a924-7a64d2b34005.jpeg)
+  
+  Post section
+  
  
