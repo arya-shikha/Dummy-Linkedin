@@ -1,5 +1,5 @@
 # Dummy-Linkedin
- Professional social networking website line linkedin.
+ Professional social networking website like linkedin.
 
 👋guys this is Arya Shikha and  welcome to another repository.
 
